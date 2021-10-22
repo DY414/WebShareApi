@@ -25,6 +25,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "nifty-newton-499d75.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
